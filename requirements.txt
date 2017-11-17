@@ -1,0 +1,2 @@
+awscli>=1.11.184
+coverage>=4.4.2
